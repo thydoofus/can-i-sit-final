@@ -1,10 +1,10 @@
 {
-    "name": "Can I sit final",
+    "name": "Can I sit bluetooth keyboard",
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "microbit-pxt-blehid": "github:bsiever/microbit-pxt-blehid#v0.0.23"
     },
     "files": [
         "main.blocks",
